@@ -171,7 +171,7 @@ tmpfs                    184M     0  184M   0% /run/user/0
 
 ### Confirming the share has worked, we must create a KDC user principle to allow user access to the shared directory
 
-### Refer to server configuration page/section [NFS-user-principle](NFS_Server_Config#user)
+### Refer to server configuration page/section [NFS-user-principle](NFS_Server_Config.md#user)
 <hr><hr>
 
 ### Having added a <a name="principle">principle for user 'jdillon'</a> on the server, we will request a new Kerberos ticket as the user and attempt to access the Kerberized NFS share:

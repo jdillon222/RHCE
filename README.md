@@ -15,11 +15,11 @@
 #### (If working through modules as a series of exercises, please do so in the following order):
 
 * 1). [Kerberos](Kerberos/KerberosNotes.md)
-* 2). [NFS (w/ Kerberized Authentication)](NFS/KerberizedNFSNotes)
-* 3). [Samba Server File Sharing](SMB/Samba_Notes)
-* 4). [Advanced Linux Networking](Adv_Networking/Advanced_Networking)
-* 5). [FirewallD](FirewallD/FirewallD_Notes)
-* 6). [DNS Server Configuration](DNS/DNS_Notes)
+* 2). [NFS (w/ Kerberized Authentication)](NFS/KerberizedNFSNotes.md)
+* 3). [Samba Server File Sharing](SMB/Samba_Notes.md)
+* 4). [Advanced Linux Networking](Adv_Networking/Advanced_Networking.md)
+* 5). [FirewallD](FirewallD/FirewallD_Notes.md)
+* 6). [DNS Server Configuration](DNS/DNS_Notes.md)
 * 7). Apache Server Configuration
 * 8). ISCSI & San Storage Configuration
 * 9). Mail Server Configuration

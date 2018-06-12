@@ -3,8 +3,8 @@
 
 ## Directory Contents (Please configure steps in this order):
 
-* 1.) [Kerberos Server Configuration](KDC_Server_Config)
-* 2.) [Kerberos_Client_Configuration](Kdc_Client_Config)
+* 1.) [Kerberos Server Configuration](KDC_Server_Config.md)
+* 2.) [Kerberos_Client_Configuration](Kdc_Client_Config.md)
 
 <hr><hr>
 

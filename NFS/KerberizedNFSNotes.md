@@ -3,8 +3,8 @@
 
 ## Directory Contents (Please configure steps in this order):
 
-* 1.) [NFS Server Configuration](NFS_Server_Config)
-* 2.) [NFS Client Configuration](NFS_Client_Config)
+* 1.) [NFS Server Configuration](NFS_Server_Config.md)
+* 2.) [NFS Client Configuration](NFS_Client_Config.md)
 
 <hr><hr>
 

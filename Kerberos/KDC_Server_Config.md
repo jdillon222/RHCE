@@ -243,5 +243,5 @@ Principal "root/admin@JDILLON.LOCAL" created.
 
 <hr><hr>
 
-### We are now ready to configure [our client](KDC_Client_Config) vm07.jdillon.local (10.0.2.7)
+### We are now ready to configure [our client](KDC_Client_Config.md) vm07.jdillon.local (10.0.2.7)
 

@@ -328,7 +328,7 @@ drwxr-xr-x. root root unconfined_u:object_r:public_content_rw_t:s0 /nfs
 
 `[root@masterhost06 ~]# chmod 777 /nfs`
 
-### [Restart the NFS-client service.](NFS_Client_Config#restart)
+### [Restart the NFS-client service.](NFS_Client_Config.md#restart)
 <hr><hr>
 
 ### Having confirmed proper mounting of the Kerberos authenticated directory, we are ready to establish user principles for the KDC server (granting access to the shared directory).
@@ -348,7 +348,7 @@ Re-enter password for principal "jdillon@JDILLON.LOCAL":
 add_principal: Principal or policy already exists while creating "jdillon@JDILLON.LOCAL".
 kadmin.local:  exit
 ```
-### Refer to client configuration page/section [principle for user 'jdillon'](NFS_Client_Config#principle) and attempt to get access to the Kerberized NFS share:
+### Refer to client configuration page/section [principle for user 'jdillon'](NFS_Client_Config.md#principle) and attempt to get access to the Kerberized NFS share:
 
 <hr><hr>
 
@@ -386,4 +386,4 @@ Export list for localhost:
 drwxrws---. 2 root nfsgroup 6 May 19 22:16 /share
 ```
 
-### Now that setgid has been configured on the directory, we can [configure our client](NFS_Client_Config#setgid)
+### Now that setgid has been configured on the directory, we can [configure our client](NFS_Client_Config.md#setgid)
