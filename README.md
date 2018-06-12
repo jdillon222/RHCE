@@ -14,7 +14,7 @@
 
 #### (If working through modules as a series of exercises, please do so in the following order):
 
-* 1). [Kerberos](Kerberos/KerberosNotes)
+* 1). [Kerberos](Kerberos/KerberosNotes.md)
 * 2). [NFS (w/ Kerberized Authentication)](NFS/KerberizedNFSNotes)
 * 3). [Samba Server File Sharing](SMB/Samba_Notes)
 * 4). [Advanced Linux Networking](Adv_Networking/Advanced_Networking)
