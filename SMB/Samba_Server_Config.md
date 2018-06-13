@@ -251,7 +251,7 @@ drwxr-xr-x. root root unconfined_u:object_r:samba_share_t:s0 /smbshare
 drwxrwxrwx. 2 root root 6 May 27 11:57 /smbshare
 ```
 
-### We are now ready to mount the Samba share on the [client machine](Samba_Client_Config#client)
+### We are now ready to mount the Samba share on the [client machine](Samba_Client_Config.md#client)
 
 ## Samba Server Configuration for <a name="group">Group Collaboration</a>
 
@@ -334,4 +334,4 @@ Anonymous login successful
 
 `[root@masterhost06 smbshare]# systemctl restart smb nmb`
 
-### We are now ready to test the group share, by accessing as one of the users [on our client](Samba_Client_Config#setgid)
+### We are now ready to test the group share, by accessing as one of the users [on our client](Samba_Client_Config.md#setgid)

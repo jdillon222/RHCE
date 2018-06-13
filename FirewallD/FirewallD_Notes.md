@@ -3,10 +3,10 @@
 
 ## Directory Contents (Please configure steps in this order):
 
-* 1.) [Rich Rules Configuration](Rich_Rules_Config)
+* 1.) [Rich Rules Configuration](Rich_Rules_Config.md)
 * 2.) [NAT & Port Forwarding](NAT+Port_Forward.md)
-* 3.) [Masquerade Configuration](Masquerade_Config)
-* 4.) [Port Forwarding Configuration](Port_Forwarding_Config)
+* 3.) [Masquerade Configuration](Masquerade_Config.md)
+* 4.) [Port Forwarding Configuration](Port_Forwarding_Config.md)
 
 <hr><hr>
 

@@ -3,8 +3,8 @@
 
 ## Directory Contents (Please configure steps in this order):
 
-* 1.) [Samba Server Configuration](Samba_Server_Config)
-* 2.) [Samba Client Configuration](Samba_Client_Config)
+* 1.) [Samba Server Configuration](Samba_Server_Config.md)
+* 2.) [Samba Client Configuration](Samba_Client_Config.md)
 <hr><hr>
 
 ## Overview:

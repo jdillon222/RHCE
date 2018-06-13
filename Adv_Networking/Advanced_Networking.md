@@ -3,11 +3,11 @@
 
 ## Directory Contents (Please configure steps in this order):
 
-* 1.) [Network Manager](NetworkManager)
-* 2.) [Static Route](Static_Route)
-* 3.) [Network Teaming](Network_Teaming)
-* 4.) [Network Bridging](Network_Bridging)
-* 5.) [IPv6 Configuration](IPv6_Config)
+* 1.) [Network Manager](NetworkManager.md)
+* 2.) [Static Route](Static_Route.md)
+* 3.) [Network Teaming](Network_Teaming.md)
+* 4.) [Network Bridging](Network_Bridging.md)
+* 5.) [IPv6 Configuration](IPv6_Config.md)
 
 <hr><hr>
 
