@@ -279,7 +279,7 @@ root@vm07.jdillon.local's password: #####
 vm07.keytab
 
 ```
-### Refer to the client configuration page, to confirm that the Kerberos server is granting a [ticket for the client](NFS_Client_Config#request) and that authentication is working correctly.
+### Refer to the client configuration page, to confirm that the Kerberos server is granting a [ticket for the client](NFS_Client_Config.md#request) and that authentication is working correctly.
 
 <hr><hr>
 
