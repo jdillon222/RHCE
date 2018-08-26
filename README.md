@@ -20,7 +20,7 @@
 * 4). [Advanced Linux Networking](Adv_Networking/Advanced_Networking.md)
 * 5). [FirewallD](FirewallD/FirewallD_Notes.md)
 * 6). [DNS Server Configuration](DNS/DNS_Notes.md)
-* 7). Apache Server Configuration
+* 7). [Apache Server Configuration](Apache/Apache_Notes.md)
 * 8). ISCSI & San Storage Configuration
 * 9). Mail Server Configuration
 * 10). SSH Management
